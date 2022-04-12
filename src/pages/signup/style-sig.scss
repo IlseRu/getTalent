@@ -1,0 +1,87 @@
+.container {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-wrapper {
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  position: absolute;
+  font-size: 60px;
+  font-weight: 600;
+  left: 143px;
+  top: 100px;
+}
+
+h3 {
+  position: absolute;
+  font-size: 24px;
+  font-weight: 400;
+  left: 686px;
+  top: 150px;
+}
+
+.email {
+  position: absolute;
+  width: 423px;
+  height: 73px;
+  right: 440px;
+}
+
+.password {
+  position: absolute;
+  width: 423px;
+  height: 73px;
+  right: 440px;
+  top: 70px;
+}
+
+.password2 {
+  position: absolute;
+  width: 423px;
+  height: 73px;
+  right: 20px;
+top: 70px;
+}
+
+.img15 {
+  position: absolute;
+  width: 335px;
+  height: 225px;
+  left: 1056px;
+  top: 97px;
+}
+
+.labelR {
+  position: absolute;
+  top: -10px;
+  right: 210px;
+  width: 230px;
+  height: 73px;
+  border-radius: 3px;
+}
+
+.submit{
+  position: absolute;
+width: 423px;
+height: 50px;
+right: 290px;
+top: 190px;
+background-color: #b7cadb;
+border-radius: 3px;
+}
+
+.login{
+  position: absolute;
+  width: 423px;
+  height: 73px;
+  right: 230px;
+  top: 290px;
+}
